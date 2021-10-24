@@ -1,3 +1,3 @@
 Jogo Dino T-Rex Game
 
-Projeto dofamoso jogo Dino Game para fins didáticos que aplica conceitos básicos como adição de eventos e funções, e manipulaç]ao de elementos HTML utilizando Javasscript, realizando estilizações e animações simples utilizando CSS.
+Projeto do famoso jogo Dino Game para fins didáticos que aplica conceitos básicos como adição de eventos e funções, e manipulação de elementos HTML utilizando Javascript, realizando estilizações e animações simples utilizando CSS.
